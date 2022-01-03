@@ -9,8 +9,8 @@ function App() {
        Header
       </header>
       <main className="App-main">
-        <UseState />
-        <ClassState/>
+        <UseState name={"Use State" }/>
+        <ClassState name={"Class State" }/>
       </main>
 
       <footer className="App-footer">
